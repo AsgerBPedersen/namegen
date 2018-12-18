@@ -1,0 +1,7 @@
+C:\Users\asge4899\source\repos\NameGen\NameGen\bin\Debug\NameGen.exe.config
+C:\Users\asge4899\source\repos\NameGen\NameGen\bin\Debug\NameGen.exe
+C:\Users\asge4899\source\repos\NameGen\NameGen\bin\Debug\NameGen.pdb
+C:\Users\asge4899\source\repos\NameGen\NameGen\obj\Debug\NameGen.csprojAssemblyReference.cache
+C:\Users\asge4899\source\repos\NameGen\NameGen\obj\Debug\NameGen.csproj.CoreCompileInputs.cache
+C:\Users\asge4899\source\repos\NameGen\NameGen\obj\Debug\NameGen.exe
+C:\Users\asge4899\source\repos\NameGen\NameGen\obj\Debug\NameGen.pdb
